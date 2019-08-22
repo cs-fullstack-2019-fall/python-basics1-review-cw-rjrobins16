@@ -10,4 +10,4 @@ Ask the user for their name. Then ask the user for a number of times they want t
 Create a program that takes user input in a while loop. If they enter 1, print 1. If they enter 2, print 2. If they enter 3 print 3. If they enter ‘q’ or 0 (your choice), quit. Else, print “ERROR”.
 
 ### Problem 4:
-Ask the user for a number until they hit 'q' to quit. Print the total of all the numbers they entered once they click 'q'.
+Create a program that takes the user input until they enter 'q'. You should store all of their input and separate the input with a comma. Once they enter 'q', print all of the comma separated words they entered.
