@@ -30,7 +30,7 @@ while userInput2 != "q":
         print (3)
 
     elif userInput2 == "":
-        print (ERROR)
+        print (ERROR) # you should print error if they enter anything other than 1-3
 
     userInput2 = input("'Enter 1, 2, or 3 or q to quit'")
 
